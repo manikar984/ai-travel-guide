@@ -54,7 +54,7 @@ http://127.0.0.1:5000
 ## 5. Test the server
 
 Open:
-http://127.0.0.1:5000/health
+https://ai-travel-guide-xmd5.onrender.com/
 
 The response shows whether Gemini and Murf keys are configured.
 
