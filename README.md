@@ -33,7 +33,7 @@ The first run creates `.venv`, installs dependencies, and creates `.env`.
 After adding the keys, run `run_windows.bat` again.
 
 Open:
-http://127.0.0.1:5000
+[http://127.0.0.1:5000](https://ai-travel-guide-xmd5.onrender.com/)
 
 ## 4. Manual start
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 python Backend\app.py
 
 Open:
-http://127.0.0.1:5000
+[http://127.0.0.1:5000](https://ai-travel-guide-xmd5.onrender.com/)
 
 ## 5. Test the server
 
